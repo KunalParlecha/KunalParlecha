@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Parlecha</h1><h1 align="center"><h1>
-</h3>A passionate data analyst from India</h3>
+<h3></h3>A passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalparlecha&label=Profile%20views&color=0e75b6&style=flat" alt="kunalparlecha" /> </p>
 
