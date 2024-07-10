@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@_kunalparlecha" target="blank"><img src="https://img.shields.io/twitter/follow/@_kunalparlecha?logo=twitter&style=for-the-badge" alt="@_kunalparlecha" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **data visualization projects**
 
 - 🌱 I’m currently learning **python and power bi**
